@@ -1,0 +1,20 @@
+.outer-div {
+  margin-left: 35%;
+}
+
+.user-heading {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.form-div {
+  margin-top: 5%;
+}
+
+.form-label {
+  margin-right: 1%;
+}
+
+.form-error {
+  color: red;
+}
